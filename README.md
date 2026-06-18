@@ -14,6 +14,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+Готовая Windows-сборка лежит в:
+
+```text
+dist/Hue.exe
+```
+
 ## Управление
 
 - WASD или стрелки - движение по клеткам
